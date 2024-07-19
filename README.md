@@ -13,7 +13,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis          | <a href="https://academy.hackthebox.com/achievement/850718/81">HTB Academy</a>|
 | Windows Active Directory | <a href="https://academy.hackthebox.com/achievement/850718/74">HTB Academy</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SIEM Implementation and Log Analysis         | <a href="https://github.com/gmarr0/Detection-Lab/blob/main/README.md">Malware Analysis Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
