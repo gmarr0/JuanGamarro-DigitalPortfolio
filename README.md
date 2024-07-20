@@ -46,5 +46,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <a href="https://www.credly.com/badges/ff21da44-5f54-4708-ab91-f2a40dbf5472/public_url" /><img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-darkblue?style=for-the-badge&logo=Coursera" />
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/gmarr0/Detection-Lab/blob/main/README.md">Malware Analysis Lab</a>
 - SOC Automation Project
