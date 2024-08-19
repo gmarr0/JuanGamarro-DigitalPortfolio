@@ -19,7 +19,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ### Network
 <div>
-    <a href="https://www.wireshark.org/" /><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.wireshark.org/" /><<img src="https://img.shields.io/badge/-NMAP-blue" />
+</div>
         
 <a href="https://nmap.org/" /><img src="https://img.shields.io/badge/-NMAP-purple" />
 </div>
