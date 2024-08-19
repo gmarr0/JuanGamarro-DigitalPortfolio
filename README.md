@@ -19,12 +19,15 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ### Network
 <div>
-    <a href="https://www.wireshark.org/" /><<img src="https://img.shields.io/badge/-NMAP-blue" />
+    <a href="https://www.wireshark.org/" /><img src="https://img.shields.io/badge/-WireShark-blue" />
 </div>
         
 <a href="https://nmap.org/" /><img src="https://img.shields.io/badge/-NMAP-purple" />
 </div>
 
+### Monitoring
+<a href="[https://nmap.org/](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)" /><img src="https://img.shields.io/badge/-Sysmon-grey" />
+</div>
 
 ### SIEM
 <div>
