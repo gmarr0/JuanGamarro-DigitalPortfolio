@@ -26,7 +26,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ### Monitoring
-<a href="[https://nmap.org/](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)" /><img src="https://img.shields.io/badge/-Sysmon-grey" />
+<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon" /><img src="https://img.shields.io/badge/-Sysmon-grey" />
 </div>
 
 ### SIEM
