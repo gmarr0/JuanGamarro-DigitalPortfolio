@@ -14,7 +14,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Network Traffic Analysis          | <a href="https://academy.hackthebox.com/achievement/850718/81">HTB Academy</a>|
 | Windows Active Directory | <a href="https://academy.hackthebox.com/achievement/850718/74">HTB Academy</a>|
 | SIEM Implementation and Log Analysis         | <a href="https://github.com/gmarr0/Detection-Lab/blob/main/README.md">Malware Analysis Lab</a>|
-
+| NextCloud AWS Deployment | <a href="[https://github.com/gmarr0/Detection-Lab/blob/main/README.md](https://github.com/gmarr0/nextcloud-aws-deployment/blob/main/README.md)">Malware Analysis Lab</a>|
 ## Tools
 
 ### Network
