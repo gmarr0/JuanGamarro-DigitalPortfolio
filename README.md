@@ -43,4 +43,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/gmarr0/Detection-Lab/blob/main/README.md">Malware Analysis Lab</a>
 - <a href="https://github.com/gmarr0/Networking-Basics-and-Monitoring/blob/main/README.md">Networking-Basics-and-Monitoring</a>
 - <a href="https://github.com/gmarr0/nextcloud-aws-deployment/blob/main/README.md">NextCloud AWS Deployment</a>
--- <a href="[https://github.com/gmarr0/SQL-Learning]">SQL Learning Lab</a>
+- <a href="https://github.com/gmarr0/SQL-Learning">SQL Learning Lab</a>
